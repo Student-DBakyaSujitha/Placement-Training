@@ -1,0 +1,66 @@
+1. Check Even or Odd
+2.Check Positive, Negative or Zero
+3. Find Largest of 2 Numbers
+4. Find Largest of 3 Numbers
+5. Find Smallest of 3 Numbers
+6. Check Divisibility by 5
+7. Check Divisibility by 5 and 11
+8. Check Leap Year
+9. Check Prime Number
+10. Check Perfect Number
+11. Check Armstrong Number
+12. Check Palindrome Number
+13. Check Strong Number
+14. Check Automorphic Number
+15. Check Neon Number
+16. Find Last Digit
+17. Find First Digit
+18. Count Number of Digits
+19. Sum of Digits
+20. Product of Digits
+21. Reverse a Number
+22. Count Even Digits
+23. Count Odd Digits
+24. Sum of Even Digits
+25. Sum of Odd Digits
+26. Find Largest Digit
+27. Find Smallest Digit
+28. Count Occurrence of a Digit
+29. Check Whether Number Contains 0
+30. Remove Last Digit
+31. Print 1 to N
+32. Print N to 1
+33. Print Even Numbers from 1 to N
+34. Print Odd Numbers from 1 to N
+35. Sum of 1 to N
+36. Sum of Even Numbers up to N
+37. Sum of Odd Numbers up to N
+38. Factorial of N
+39. Multiplication Table
+40. Count Multiples of 3 from 1 to N
+
+
+1. Find the sum of all elements
+2. Find the largest elements
+3. find the smallest elements
+4. Count even & odd num in 2D matrix
+5. Find the sum of each row
+6. Find the sum of each column
+7. largest elements in each row
+8. largest elements in each column
+9. count Positive Negative and Zero element
+10. print main diagonal
+11. Find the sum of main diagonal
+12. Print the secondary diagonal
+13. Find the sum of secondary diagonal
+14. Find the sum of both diagonal
+15. Add two matrix
+16. Transpose a matrix
+17. Search for an elements
+18. Count Occurrence of given Number
+19. Print only boundary elements
+20. Find the sum of boundary elements
+21. Print upper triangular matrix
+22. Print lower triangular matrix
+23. Check Whether a matrix is an identity matrix
+24. Check Whether a matrix is a symmetric matrix
