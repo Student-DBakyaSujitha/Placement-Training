@@ -1,6 +1,4 @@
 //Find the largest elements 
-package TwoDArray;
-
 import java.util.Scanner;
 
 public class Largestelement {

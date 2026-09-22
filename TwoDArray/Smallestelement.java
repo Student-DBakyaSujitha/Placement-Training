@@ -1,5 +1,3 @@
-package TwoDArray;
-
 import java.util.Scanner;
 
 public class Smallestelement {
